@@ -221,3 +221,5 @@ git clone --depth=1 https://github.com/zhaoolee/ins
 <a href="mailto:zhaoolee@gmail.com">zhaoolee@gmail.com</a>
 
 如果你有**饱含灵感的想法**, 也可以在[issues](https://github.com/zhaoolee/ins/issues) 中留言
+
+点个赞先
